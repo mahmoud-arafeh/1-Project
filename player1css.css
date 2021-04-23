@@ -1,0 +1,72 @@
+.allBackground {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.center {
+  position: absolute;
+  top: 10px;
+  left: 48%;
+  transform: translate(-50%, -50%);
+}
+.character1 {
+  position: absolute;
+  top: 125px;
+  left: 30%;
+  border-radius: 15px;
+  overflow: hidden;
+  perspective: 1px;
+}
+.character2{
+   position: absolute;
+  top: 125px;
+  left: 50%;
+  border-radius: 15px;
+  overflow: hidden;
+  perspective: 1px;
+}
+.character3{
+   position: absolute;
+  top: 350px;
+  left: 50%;
+  border-radius: 15px;
+  overflow: hidden;
+  perspective: 1px;
+}
+.character4{
+   position: absolute;
+   top: 350px;
+   left: 30%;
+   border-radius: 15px;
+   overflow: hidden;
+   perspective: 1px;
+}
+.character1 :hover{
+   border-style: groove;
+   border-color: navy;
+   border-radius: 15px;
+   overflow: hidden;
+   perspective: 1px;
+}
+.character2 :hover{
+   border-style: groove;
+   border-color: navy;
+   border-radius: 15px;
+   overflow: hidden;
+   perspective: 1px;
+}
+.character3 :hover{
+   border-style: groove;
+   border-color: navy;
+   border-radius: 15px;
+   overflow: hidden;
+   perspective: 1px;
+
+}
+.character4 :hover{
+   border-style: groove;
+   border-color: navy;
+   border-radius: 15px;
+   overflow: hidden;
+   perspective: 1px;
+}
